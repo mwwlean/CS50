@@ -1,2 +1,2 @@
-# cs50
+# CS50
 A collection of my code solutions for CS50 problems.
